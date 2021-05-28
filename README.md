@@ -5,11 +5,11 @@
 - Python 3.x
 - Unreal 4.x
 
-<br><br>
+<br>
 
 ## Info
 
-This is part of the Digital Human Project.
+For information on the Digital Human Project, see the blog.
 <br>(2019) https://nyajjyang-portfolio.tistory.com/28
 <br>(2020) To be uploaded
 
