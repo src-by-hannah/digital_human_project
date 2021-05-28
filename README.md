@@ -9,10 +9,8 @@
 ## Info
 
 This is part of the Digital Human Project.
-
-(2019) https://nyajjyang-portfolio.tistory.com/28
-
-(2020) To be uploaded
+<br>(2019) https://nyajjyang-portfolio.tistory.com/28
+<br>(2020) To be uploaded
 
 ** This repository contains only @src-by-hannah's, not the entire process.
 
